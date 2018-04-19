@@ -18,7 +18,7 @@ Their is ways to push further this project:
 
 This project allows me to use Laravel in another professional project to make a local app that manage runs event for a running club who makes 4 runs per years (800 runners each)
 
+# License
 
-
-
+This project is licensed under the MIT License
 
